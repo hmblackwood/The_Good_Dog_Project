@@ -21,9 +21,7 @@ SSD-based ("Single Shot Detector") object detection model trained on Open Images
 Model is evaluated on Multi Class Log Loss between the predicted probability and the obeserved target. www.kaggle.com/competitions/dog-breed-identification/overview/evaluation
 
 5. Features:
-Information about the data:
-
-Unstructured data (images).
+Information about the data: Unstructured data (images).
 120 different classes, one for each breed of dog, into which images will be sorted.
 10,000+ images of dogs in the training set, all of them labeled.
 10,000+ images of dogs in the test set, all unlabeled. The model will be making predictions based on these.
