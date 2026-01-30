@@ -6,7 +6,8 @@ https://github.com/hmblackwood/The_Good_Dog_Project/blob/main/The_Good_Dog_Proje
 Summary:<br>
 Using transfer learning, I created a convolutional neural network (CNN) deep learning, multi-class image classifier model with MobileNet V2 to identify the breed of dog based on an image.
 
-Libraries Used: Tensorflow, Keras, NumPy, Matplotlib, Seaborn, Pandas, and Scikit-Learn
+Libraries Used: <br>
+Tensorflow, Keras, NumPy, Matplotlib, Seaborn, Pandas, and Scikit-Learn
 
 1. Problem:<br>
 Identify the breed of a dog based on an image.
