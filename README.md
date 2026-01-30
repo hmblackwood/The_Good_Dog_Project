@@ -1,5 +1,6 @@
 # 🐶 The Good Dog Project 🐶
-### Please visit the project file to learn more. https://github.com/hmblackwood/The_Good_Dog_Project/blob/main/The_Good_Dog_Project.ipynb
+### Please visit the project file to learn more. 
+https://github.com/hmblackwood/The_Good_Dog_Project/blob/main/The_Good_Dog_Project.ipynb
 
 
 Summary:
